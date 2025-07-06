@@ -1,0 +1,59 @@
+{
+  "nodebuff": [
+    {
+      "mcName": "PvPGod",
+      "tier": "HT2",
+      "score": 95,
+      "testCount": 2
+    },
+    {
+      "mcName": "ComboKing",
+      "tier": "LT1",
+      "score": 75,
+      "testCount": 1
+    }
+  ],
+  "sumo": [
+    {
+      "mcName": "PvPGod",
+      "tier": "HT4",
+      "score": 85,
+      "testCount": 1
+    },
+    {
+      "mcName": "ComboKing",
+      "tier": "HT3",
+      "score": 90,
+      "testCount": 1
+    }
+  ],
+  "axe": [
+    {
+      "mcName": "PvPGod",
+      "tier": "LT1",
+      "score": 75,
+      "testCount": 1
+    }
+  ],
+  "overall": [
+    {
+      "mcName": "PvPGod",
+      "overallScore": 85.0,
+      "testCount": 4,
+      "nodebuff": "HT2",
+      "sumo": "HT4",
+      "axe": "LT1",
+      "overallTier": "HT4",
+      "rank": 1
+    },
+    {
+      "mcName": "ComboKing",
+      "overallScore": 82.5,
+      "testCount": 2,
+      "nodebuff": "LT1",
+      "sumo": "HT3",
+      "overallTier": "HT5",
+      "rank": 2
+    }
+  ]
+}
